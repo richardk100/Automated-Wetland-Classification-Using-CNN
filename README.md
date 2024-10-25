@@ -1,4 +1,3 @@
-# Automated-Wetland-Classification-Using-CNN
 # Automated Wetland Classification and Monitoring Using Convolutional Neural Networks
 
 This project focuses on automated classification and monitoring of wetlands in Kajiado County, Kenya, utilizing Convolutional Neural Networks (CNNs) with Landsat 7 imagery. The objective is to accurately map wetlands, monitor changes over time, and develop spatially generalizable models for broader ecological applications.
